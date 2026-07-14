@@ -11,7 +11,7 @@
 </p>
 
 ### 🎮 Play Now
-**👉 https://manthansahu20.github.io/Subway-surfers/**
+**👉 https://manthansahu20.github.io/Subway-surfers-/
 
 </div>
 
