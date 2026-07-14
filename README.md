@@ -67,17 +67,7 @@ Open index.html in your browser
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ManthanSahu20&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanSahu20&theme=tokyonight"/>
-
-</p>
-
----
 
 # 💻 Languages
 
